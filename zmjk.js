@@ -4,6 +4,7 @@
 数据抓取jk-agw-m.simeitol.com 中myjk-token
 qwer.1234
 变量: mzjk_token多账号@分割
+cron 20 3 * * * zmjk.js
 */
 
 const $ = new Env("姿美健康");

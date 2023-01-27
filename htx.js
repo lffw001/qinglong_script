@@ -5,7 +5,7 @@
 抓取 htx.lcago.cn  body中的 token 和deviceCoding  
 多账号换行   也可以自建一个htx.txt放到和脚本一个文件夹内
 htx  'token#deviceCoding'
-cron 10 7,17 * * *  htx.js
+cron 4 5,15 * * *  htx.js
 https://raw.githubusercontent.com/liuqi6968/-/main/htx.js
 */
 const $ = new Env("沪碳行");
