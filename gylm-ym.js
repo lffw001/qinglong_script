@@ -7,7 +7,7 @@
 进入农场后抓包https://saas.hixiaoman.com/开头的，cookie里面userId和consumerId的值用#链接，只要数字就可以
 如:userId=gylm-IOS-hdgj_rxbhsy=1891943122975506676;consumerId=gylm-IOS-hdgj_rxbhsy=5320418;变量只需要1891943122975506676#5320418就行
 多账号@隔开，抓过高佣农场的不用抓了，ck通用！！！直接跑就行。
-邀请码：23522129
+邀请码：36983976
 定时:一天一到两次
 cron 21 4,6 * * * gylm-ym.js
 */
